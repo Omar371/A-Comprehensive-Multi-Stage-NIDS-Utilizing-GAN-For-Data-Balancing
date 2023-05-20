@@ -46,6 +46,7 @@ CICIDS2018 dataset, a popular network traffic dataset for intrusion detection pr
 
 ### Requirements & Libraries  
 * Python 3.6+ 
+* NVIDIA GeForce RTX 3050 Laptop GPU
 * [scikit-learn](https://scikit-learn.org/stable/)  
 * [Xgboost](https://xgboost.readthedocs.io/en/latest/python/python_intro.html)
 * [sdv](https://sdv.dev/SDV/) 
