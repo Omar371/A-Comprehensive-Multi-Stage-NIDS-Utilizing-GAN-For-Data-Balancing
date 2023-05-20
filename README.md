@@ -1,7 +1,5 @@
 # A-Comprehensive-Multi-Stage-NIDS-Utilizing-GAN-For-Data-Balancing
 
-ECE 9309/9039: MACHINE LEARNING PROJECT
-
 Abstract—The rapid proliferation of internet-connected
 devices with varying capabilities and security measures
 introduces various security vulnerabilities, which induce
