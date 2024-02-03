@@ -54,8 +54,6 @@ CICIDS2018 dataset, a popular network traffic dataset for intrusion detection pr
 ## Authors
  
 [@Omar Awadallah](https://www.linkedin.com/in/omar-awadallah-852b841a1)
-[@Sarah Azzabi](https://www.linkedin.com/in/sarah-issa-azzabi/)
-[@Yazan Aref](https://www.linkedin.com/in/yazan-aref/)
 
 
 
