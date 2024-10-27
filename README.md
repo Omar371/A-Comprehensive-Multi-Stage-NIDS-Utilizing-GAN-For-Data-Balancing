@@ -15,11 +15,10 @@ classification architecture that includes a binary classifier
 followed by a multi-class classifier to ensure faster and
 more efficient performance. Our proposed approach is
 evaluated on the CIC-IDS2018 dataset containing various
-up-to-date attacks. Our evaluation results verify the effi-
-cient performance of the proposed GAN implementation
+up-to-date attacks. Our evaluation results verify the efficient performance of the proposed GAN implementation
 and the hierarchical multi-stage architecture. The paper
 concludes that the proposed approach resulted in a value of
-around 99% for the f1-score, precision, and recall metrics.
+around 92% for the f1-score, precision, and recall metrics.
 
 <p align="left">Figure 1: The architecture of proposed model.</p>
 <p align="center">
